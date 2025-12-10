@@ -1,0 +1,13 @@
+networkx>=3.3
+numpy>=2.1
+pandas>=2.2
+scikit-learn>=1.5
+xgboost>=2.1
+matplotlib>=3.9
+
+# Community detection
+python-louvain>=0.16
+
+# Optional but useful
+seaborn>=0.13
+joblib>=1.4
